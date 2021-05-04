@@ -3,7 +3,7 @@ Light-weight audio recording application that puts your audio recording onto you
 
 Enter a name for your recording + the destination folder.
 
-**Record** will start your audio recording with your default audio recording device
+**Record** will start your audio recording with your default audio recording device.
 
 **End** will place the recording into your destination folder + save to your clipboard.
 
