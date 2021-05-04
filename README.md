@@ -7,4 +7,4 @@ Record will start your audio recording with your default audio recording device;
 
 Your audio recording will also be placed onto your clipboard you can easily paste your recordings.
 
-![image](https://user-images.githubusercontent.com/15184861/116961251-b42e5680-ac57-11eb-8835-bd014fb80fca.png)
+![image](https://user-images.githubusercontent.com/15184861/116961372-0b342b80-ac58-11eb-9a3f-79cf29bdf5d7.png)
