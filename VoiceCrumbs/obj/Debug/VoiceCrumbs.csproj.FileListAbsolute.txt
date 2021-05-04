@@ -1,0 +1,9 @@
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\bin\Debug\VoiceCrumbs.exe.config
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\bin\Debug\VoiceCrumbs.exe
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\bin\Debug\VoiceCrumbs.pdb
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\obj\Debug\VoiceCrumbs.Form1.resources
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\obj\Debug\VoiceCrumbs.Properties.Resources.resources
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\obj\Debug\VoiceCrumbs.csproj.GenerateResource.Cache
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\obj\Debug\VoiceCrumbs.csproj.CoreCompileInputs.cache
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\obj\Debug\VoiceCrumbs.exe
+C:\Users\Jeeves\source\repos\VoiceCrumbs\VoiceCrumbs\obj\Debug\VoiceCrumbs.pdb
